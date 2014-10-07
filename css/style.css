@@ -132,6 +132,7 @@ body{ font:16px/24px 'Roboto Slab', serif; }
    ============== */
 
 #backbtn a{
+	cursor: pointer;
 	display:inline;
 	padding:8px 25px;
 	margin-bottom:1em;
